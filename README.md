@@ -1,1 +1,1 @@
-# flammatoryBowelDisease
+# InflammatoryBowelDisease
